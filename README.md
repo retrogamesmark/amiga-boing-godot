@@ -17,24 +17,26 @@ Amiga Boing Ball Demo recreated in Godot (GDScript). The classic Amiga demo of t
 
 
 
-## Project Structure
+## Project Files
 - **ball.gd**  
-  Ball rendering, palette updates, bounce physics, shadow handling
+  Ball rendering, palette updates, update bounce physics, and shadow handling.
+- **ball_physics.gd**  
+  Updates and returns the ball position, movement direction.
 - **grid.gd**  
-  Background grid lines (Amiga-style floor effect)
+  Background grid lines (Amiga-style floor effect).
 - **image_utils.gd**  
-  Bitplane → image conversion + hi-res texture helpers
+  Bitplane → image conversion + hi-res texture helpers.
 - **palette_cycler.gd**  
-  Handles palette cycling per frame
+  Handles palette cycling per frame.
 - **palette_utils.gd**  
-  Color conversions + safe palette editing
+  Color conversions + safe palette editing.
 - **sound_music.gd / sound_utils.gd**  
-  Sound playback and randomization
+  Sound playback and randomization.
 - **boing_theme.gd**  
-  Theme/template for colors and settings
+  Theme/template for colors and settings.
 - **active_theme.gd**  
-  Active theme manager
+  Active theme manager.
 - **global_settings.gd**  
-  Central config (physics, colors, options)
+  Central config (physics, colors, options).
 - **ball_data.gd**  
-  Bitplane + color data (Amiga palette)
+  Bitplane + color data (Amiga palette).

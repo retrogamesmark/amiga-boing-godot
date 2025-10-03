@@ -40,3 +40,23 @@ Amiga Boing Ball Demo recreated in Godot (GDScript). The classic Amiga demo of t
   Central config (physics, colours, options).
 - **ball_data.gd**  
   Bitplane and colour data (Amiga palette).
+
+
+
+  ## Screenshots
+- **AMIGA Theme**  
+  Screenshot of the demo using the AMIGA theme.
+
+
+<img width="1272" height="795" alt="amiga-boing-amiga-theme-screenshot" src="https://github.com/user-attachments/assets/04d94611-021a-40d9-82d5-5581c47fc322" />
+
+
+  
+- **BLUE Theme**  
+  Screenshot of the demo using the BLUE theme.
+
+
+<img width="1272" height="795" alt="amiga-boing-blue-theme-screenshot" src="https://github.com/user-attachments/assets/9c09fb08-3b05-448e-bb6c-1eb29115a6c4" />
+
+
+

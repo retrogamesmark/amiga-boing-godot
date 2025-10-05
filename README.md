@@ -7,6 +7,19 @@ Amiga Boing Ball Demo recreated in Godot (GDScript). The classic Amiga demo of t
 
 
 
+## TODO
+- **Complete UI**  
+  Only fundamental UI in place, currently used for debugging.
+  A complete UI system will be in place.
+- **Hi-Res**  
+  Complete the code that creates a hi-res graphics version of the demo.
+  As all graphics are created with code already, this is quite an easy update.
+  AMIGA_MODE: false.
+- **And More**  
+  Lots of other bits too.
+
+
+
 ## Features
 - **Amiga-style Boing Ball**  
   Rendered from raw bitplanes and indexed colours (no pre-drawn textures).

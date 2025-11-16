@@ -5,6 +5,10 @@ Amiga Boing Ball Demo recreated in Godot (GDScript). The classic Amiga demo of t
 ## Update
   Creating a test Godot project file synced with GitHub before uploading the project files here.
 
+## Demo Video Preview (alpha)
+
+https://github.com/user-attachments/assets/3639a340-c6bb-4c73-924d-e22e98dba91e
+
 
 
 ## TODO
